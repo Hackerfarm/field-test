@@ -1,0 +1,7 @@
+POST /post HTTP/1.0
+Host: field-test.iv-labs.org
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Content-Length: 67
+
+identity=saboten_sogoki&content=%7B%22vbat%22%3A%25d%2C%20%22vsol%22%3A%25d%2C%20%22temperature%22%3A%25d%7D
+
